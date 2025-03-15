@@ -18,3 +18,8 @@ test_miniwob.py
 
 # Personal
 push.sh
+.vscode/settings.json
+showui/*
+showui-2b/*
+Qwen/*
+image*.png
